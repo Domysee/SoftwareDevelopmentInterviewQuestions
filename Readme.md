@@ -14,7 +14,7 @@ How does your onboarding process look like?
 
 How long does it typically take before a new hire (like me) brings value to the team?
 
-What are your main competitors?
+What are your main competitors? How do you compare to them? Which advantages and disadvantages does your product have?
 
 What tooling do you use? 
 
