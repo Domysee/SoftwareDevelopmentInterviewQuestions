@@ -107,6 +107,8 @@ What level of autonomy am I going to have? What decisions am I allowed to make?
 
 How do you assess people's performance? 
 
+What do you do leading up to a vacation?
+
 ## Big Picture
 
 What are your main competitors? How do you compare to them? Which advantages and disadvantages does your product have?
@@ -144,6 +146,8 @@ This one may seem a bit too invasive, but you'll learn a lot about the company a
 How diverse is your team? Do you have a diversity commitment? 
 The importance of the question varies depending on which group you belong to.  
 But do ask this question if you belong to the majority as well. You will help the minorities by doing so. Also you will help companies to start thinking in the right direction. A well-balanced team will benefit everyone: the business, the team, the majorities and the minorities.
+
+If you had authority, what one thing you would change here?
 
 # Contributions
 
