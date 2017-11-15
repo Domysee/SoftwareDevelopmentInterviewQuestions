@@ -131,6 +131,8 @@ Is variability tolerated or is everyone expected to be on the same schedule?
 
 Would I need to be on call? How often?
 
+What's the average lunch like here?
+
 ## Big Picture
 
 What are your main competitors? How do you compare to them? Which advantages and disadvantages does your product have?
