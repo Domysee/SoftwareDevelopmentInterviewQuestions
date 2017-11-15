@@ -1,5 +1,9 @@
 # This is a cureated collection of interview questions an interviewee can ask the interviewer about the company 
 
+Asking questions is not only important for the interviewer, but for the potential employee too. As a software developer, you will most likely get multiple offers. Having asked the right questions during the interviews, will remove a lot of the guesswork when choosing the company. 
+
+This list aims to provide a list of questions that *could* be important to you, and hence make your decision between multiple potential employers easier. 
+
 ## Collaboration
 
 How do you handle a conflict between developers? E.g. if one proposed one solution, and the other a different one, and both don't back down.
