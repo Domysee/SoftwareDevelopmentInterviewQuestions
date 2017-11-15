@@ -140,3 +140,10 @@ This one may seem a bit too invasive, but you'll learn a lot about the company a
 How diverse is your team? Do you have a diversity commitment? 
 The importance of the question varies depending on which group you belong to.  
 But do ask this question if you belong to the majority as well. You will help the minorities by doing so. Also you will help companies to start thinking in the right direction. A well-balanced team will benefit everyone: the business, the team, the majorities and the minorities.
+
+# Contributions
+
+Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from which many questions were adopted.
+
+[1]:https://twitter.com/ice_lenor
+[2]:https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po
