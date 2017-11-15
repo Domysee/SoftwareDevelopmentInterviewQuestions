@@ -100,24 +100,7 @@ Who makes technical decisions?
 These decision-making questions are becoming more and more important the more senior you become. As a lead developer, you wouldn't want to have no power over decision-making - why would they want to hire you at all then?  
 Generally speaking, if all decisions are made by one person, it's probably not the best. On the other hand, if all decisions are always made by everyone, what is going to happen if people disagree? Better to clear this up.
 
-How is the work-life balance?  
-Do you ensure the work-life balance of employees? How?
-
-Do people work overtime? How often? For what reasons? Is it paid?  
-In these answers watch out for toxic culture! "We are one big family" may sound heart-warming, but in reality you have your own family, hobbies, and other commitments outside of work. Don't give them up for a job!
-
-How many hours do people work in an average week? In your busiest weeks?  
-How often are there emergencies or times when people have to work extra hours?
-
-Do people work on weekends?
-
 Is it possible to work from home, say, 1 or 2 days a week? Does anyone do this? 
-
-Is it a challenging environment?  
-Or, if they say "we like to challenge each other", what does it mean?  
-Try to dig deeper: is it a healthy challenging and respectful discussions aimed at improvement of the product and the process? Examples may be: "is it the best for the team right now", "is this what our customers want", "how can we improve the process".  
-Maybe they mean only technical challenges: "how do we scale this better", "how many requests can we process", or "how to make it work faster on smartphones".  
-But sometimes "challenging" can mean there are people who are constantly going to question your professionalism and make you feel bad. "Your code is so bad" or "your designs are ugly" are some gruesome examples.
 
 What level of autonomy am I going to have? What decisions am I allowed to make?
 
@@ -125,13 +108,36 @@ How do you assess people's performance?
 
 What do you do leading up to a vacation?
 
-When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
-
 Is variability tolerated or is everyone expected to be on the same schedule?
 
 Would I need to be on call? How often?
 
+## Culture
+
+What are company values?
+
+Which company internal information is accessible to employees?  
+Financials, ongoing deals, code (all code written by the company or just what you are working on), salaries, ...
+
 What's the average lunch like here?
+
+When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
+
+Is it a challenging environment?  
+Or, if they say "we like to challenge each other", what does it mean?  
+Try to dig deeper: is it a healthy challenging and respectful discussions aimed at improvement of the product and the process? Examples may be: "is it the best for the team right now", "is this what our customers want", "how can we improve the process".  
+Maybe they mean only technical challenges: "how do we scale this better", "how many requests can we process", or "how to make it work faster on smartphones".  
+But sometimes "challenging" can mean there are people who are constantly going to question your professionalism and make you feel bad. "Your code is so bad" or "your designs are ugly" are some gruesome examples.
+
+Do people work overtime? How often? For what reasons? Is it paid?  
+In these answers watch out for toxic culture! "We are one big family" may sound heart-warming, but in reality you have your own family, hobbies, and other commitments outside of work. Don't give them up for a job!
+
+How many hours do people work in an average week? In your busiest weeks?  
+How often are there emergencies or times when people have to work extra hours?  
+Do people work on weekends?
+
+How is the work-life balance?  
+Do you ensure the work-life balance of employees? How?
 
 ## Big Picture
 
@@ -139,8 +145,6 @@ What are your main competitors? How do you compare to them? Which advantages and
 
 Who are your customers?
 Here you are not looking for specific names, but specific groups (e.g. enterprise, individuals).
-
-What are company values?
 
 How do you define and measure success? 
 
@@ -203,9 +207,6 @@ If you had authority, what one thing you would change here?
 Can you give me an example of someone who’s been in a technical role at your company for a long time, and how their responsibilities and role have changed? 
 
 Can you tell me about a time when you’ve had to let someone go?
-
-Which company internal information is accessible to employees?  
-Financials, ongoing deals, code (all code written by the company or just what you are working on), salaries, ...
 
 How is the office space physically organized?  
 Open office, cubicles, private offices?
