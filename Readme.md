@@ -14,17 +14,26 @@ How do you organize teams?
 Do you have vertical teams (designers, developers, ... together), or do you have horizontal teams (one team consists of only developers, the other only of designers ...)?  
 How many people are usually in a team?
 
-What project management framework do you use? Scrum? Kanban? Extreme Programming? Something else?
-
 How do people collaborate? On the same position (e.g. several developers), or on different positions (e.g. developers and QA's).  
+
+How/when do developers talk to non-developers? Is it easy to talk to the people who are will be using your product?
+
+How does internal communication work? 
 
 How does the company help junior people to grow?
 
 ## Communication
 
-How do you communicate with customers? Who does that? How do you collect customer requirements? 
-
+How do you communicate with customers? Who does that?  
+How do you collect customer requirements?  
 How do you work with customer feedback?
+
+Do you have an issue tracker?  
+To what extent do you use it?
+
+What project management framework do you use? Scrum? Kanban? Extreme Programming? Something else?
+
+How often do you have meetings? Are there any scheduled/standing meetings? 
 
 ## Planning
 
@@ -65,6 +74,9 @@ How do you take care of technical debt?
 
 How does your release process look like?
 
+Describe your deployment process – how do you find bugs in your team’s code? What recourse do you have when you find a serious bug in production code?  
+Who is responsible for doing deployment? How often do you deploy?
+
 ## Onboarding
 
 How long does it typically take before a new hire (like me) brings value to the team?
@@ -77,13 +89,9 @@ This question shows if the company is prepared to hire people at all. The compan
 
 ## Working there
 
-How are the salaries of developers raised?
-
-What are my professional perspectives? Career and compensation ones?
-
 What's the general working process? Can you describe one day or one week of the team's work?
 
-What product am I going to work on?
+What am I going to work on?
 
 Who makes business decisions? 
 
@@ -97,6 +105,13 @@ Do you ensure the work-life balance of employees? How?
 Do people work overtime? How often? For what reasons? Is it paid?  
 In these answers watch out for toxic culture! "We are one big family" may sound heart-warming, but in reality you have your own family, hobbies, and other commitments outside of work. Don't give them up for a job!
 
+How many hours do people work in an average week? In your busiest weeks?  
+How often are there emergencies or times when people have to work extra hours?
+
+Do people work on weekends?
+
+Is it possible to work from home, say, 1 or 2 days a week? Does anyone do this? 
+
 Is it a challenging environment?  
 Or, if they say "we like to challenge each other", what does it mean?  
 Try to dig deeper: is it a healthy challenging and respectful discussions aimed at improvement of the product and the process? Examples may be: "is it the best for the team right now", "is this what our customers want", "how can we improve the process".  
@@ -108,6 +123,12 @@ What level of autonomy am I going to have? What decisions am I allowed to make?
 How do you assess people's performance? 
 
 What do you do leading up to a vacation?
+
+When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
+
+Is variability tolerated or is everyone expected to be on the same schedule?
+
+Would I need to be on call? How often?
 
 ## Big Picture
 
@@ -124,9 +145,40 @@ What are your long-term plans?
 
 How do you, as a company/team, make sure you're working on the right things?
 
+Are you profitable?  
+If not, how does this affect what you can do? What’s your planned timeline for becoming profitable?
+
+
 ## Salary
 
 What is the salary range for this position? Bonuses, stock options, relocation packages, signing bonuses, vacation days, etc.
+
+## Career Development
+
+How are the salaries of developers raised?
+
+What are my professional perspectives? Career and compensation ones?
+
+Does your company support continuing education? How?  
+There are multiple ways they can do that, either by supporting going back to university, paying for MOOCs (e.g. Udacity, Coursera), buying books, education subscriptions, ...
+
+In what other ways do you support career development?
+
+## Community Involvement
+
+Do you contribute to open source projects? Which projects? Which teams work on open source? Do you work mostly in the community or do you have a private fork?
+
+Do your employees speak at conferences about your work?
+
+Are employees encouraged to go speak at conferences?
+
+Do you cover travel to conferences? How many conferences a year do devs typically go to?
+
+## Diversity
+
+How diverse is your team? Do you have a diversity commitment? 
+The importance of the question varies depending on which group you belong to.  
+But do ask this question if you belong to the majority as well. You will help the minorities by doing so. Also you will help companies to start thinking in the right direction. A well-balanced team will benefit everyone: the business, the team, the majorities and the minorities.
 
 ## Miscellaneous
 
@@ -143,11 +195,23 @@ Asking about differences to other companies reveals how you can stand out.
 Looking backwards, what mistakes did you make as a company/department/team, and what did you learn from them?
 This one may seem a bit too invasive, but you'll learn a lot about the company and about the interviewer as well. It's even more valuable if you're going to work with them or report to them.
 
-How diverse is your team? Do you have a diversity commitment? 
-The importance of the question varies depending on which group you belong to.  
-But do ask this question if you belong to the majority as well. You will help the minorities by doing so. Also you will help companies to start thinking in the right direction. A well-balanced team will benefit everyone: the business, the team, the majorities and the minorities.
-
 If you had authority, what one thing you would change here?
+
+Can you give me an example of someone who’s been in a technical role at your company for a long time, and how their responsibilities and role have changed? 
+
+Can you tell me about a time when you’ve had to let someone go?
+
+Which company internal information is accessible to employees?  
+Financials, ongoing deals, code (all code written by the company or just what you are working on), salaries, ...
+
+How is the office space physically organized?  
+Open office, cubicles, private offices?
+
+What do you wish you had known when you joined this company?
+
+Why did you choose to join this company?
+
+What's the single biggest issue or problem facing the team/department/company?” What's currently being done to address it?
 
 # Contributions
 
