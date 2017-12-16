@@ -221,5 +221,10 @@ What's the single biggest issue or problem facing the team/department/company?” 
 
 Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from which many questions were adopted.
 
+# Further Resources
+
+[Culture Queries][3]
+
 [1]:https://twitter.com/ice_lenor
 [2]:https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po
+[3]:https://www.keyvalues.com/culture-queries
