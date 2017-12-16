@@ -217,6 +217,9 @@ Why did you choose to join this company?
 
 What's the single biggest issue or problem facing the team/department/company?” What's currently being done to address it?
 
+When You Think of the Best Employees Who've Worked for You, What Makes Them Stand Out in Your Mind?  
+Ask this your boss, if he's the one interviewing you. This can give you good knowledge of what is expected.
+
 # Contributions
 
 Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from which many questions were adopted.
