@@ -75,7 +75,7 @@ How do you take care of technical debt?
 
 How does your release process look like?
 
-Describe your deployment process ñ how do you find bugs in your teamís code? What recourse do you have when you find a serious bug in production code?  
+Describe your deployment process ‚Äì how do you find bugs in your team‚Äôs code? What recourse do you have when you find a serious bug in production code?  
 Who is responsible for doing deployment? How often do you deploy?
 
 ## Onboarding
@@ -153,7 +153,7 @@ What are your long-term plans?
 How do you, as a company/team, make sure you're working on the right things?
 
 Are you profitable?  
-If not, how does this affect what you can do? Whatís your planned timeline for becoming profitable?
+If not, how does this affect what you can do? What‚Äôs your planned timeline for becoming profitable?
 
 
 ## Salary
@@ -204,9 +204,9 @@ This one may seem a bit too invasive, but you'll learn a lot about the company a
 
 If you had authority, what one thing you would change here?
 
-Can you give me an example of someone whoís been in a technical role at your company for a long time, and how their responsibilities and role have changed? 
+Can you give me an example of someone who‚Äôs been in a technical role at your company for a long time, and how their responsibilities and role have changed? 
 
-Can you tell me about a time when youíve had to let someone go?
+Can you tell me about a time when you‚Äôve had to let someone go?
 
 How is the office space physically organized?  
 Open office, cubicles, private offices?
@@ -215,7 +215,7 @@ What do you wish you had known when you joined this company?
 
 Why did you choose to join this company?
 
-What's the single biggest issue or problem facing the team/department/company?î What's currently being done to address it?
+What's the single biggest issue or problem facing the team/department/company?‚Äù What's currently being done to address it?
 
 When You Think of the Best Employees Who've Worked for You, What Makes Them Stand Out in Your Mind?  
 Ask this your boss, if he's the one interviewing you. This can give you good knowledge of what is expected.
@@ -227,7 +227,9 @@ Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from
 # Further Resources
 
 [Culture Queries][3]
+[Tech Interview Handbook][4]
 
 [1]:https://twitter.com/ice_lenor
 [2]:https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po
 [3]:https://www.keyvalues.com/culture-queries
+[4]:https://yangshun.github.io/tech-interview-handbook/
