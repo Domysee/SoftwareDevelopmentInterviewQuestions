@@ -226,7 +226,7 @@ Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from
 
 # Further Resources
 
-[Culture Queries][3]
+[Culture Queries][3]  
 [Tech Interview Handbook][4]
 
 [1]:https://twitter.com/ice_lenor
