@@ -233,3 +233,5 @@ Thank you [Elena][1] for writing this wonderful [blogpost][2] on the topic, from
 [2]:https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po
 [3]:https://www.keyvalues.com/culture-queries
 [4]:https://yangshun.github.io/tech-interview-handbook/
+
+https://github.com/viraptor/reverse-interview
